@@ -10,3 +10,9 @@ An interactive quiz platform where users can attempt quizzes, receive instant fe
 - ✅ Timer-based quizzes (e.g., 30 seconds per question)
 - ✅ Scoreboard at the end of each quiz
 - ✅ Bonus: Save quiz history using IndexedDB
+
+# Run Locally
+
+## Clone the project
+```bash
+git clone https://github.com/YourUsername/YourRepo.git

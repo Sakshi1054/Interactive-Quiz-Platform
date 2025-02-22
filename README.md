@@ -17,11 +17,14 @@ An interactive quiz platform where users can attempt quizzes, receive instant fe
 ```bash
 git clone https://github.com/Sakshi1054/Interactive-Quiz-Platform.git
 cd Interactive-Quiz-Platform
-
 ```
-## 2️⃣ Install Dependencies
-npm install
 
-``
+## 2️⃣ Install Dependencies
+```bash
+npm install
+```
+
 ## 3️⃣ Start the Development Server
+```bash
 npm run dev
+```

@@ -13,13 +13,15 @@ An interactive quiz platform where users can attempt quizzes, receive instant fe
 
 # Run Locally
 
-## Clone the project
+## 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Sakshi1054/Interactive-Quiz-Platform.git
 cd Interactive-Quiz-Platform
 
-```bash
+```
+## 2️⃣ Install Dependencies
 npm install
 
-```bash
+``
+## 3️⃣ Start the Development Server
 npm run dev

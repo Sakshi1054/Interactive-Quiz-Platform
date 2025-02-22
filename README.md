@@ -1,2 +1,1 @@
-Interactive Quiz Platform
-The Interactive Quiz Platform is a dynamic web application that enables users to attempt quizzes, receive instant feedback, and track their progress efficiently. The platform supports multiple quiz attempts, allowing users to improve their scores over time while maintaining a history of their attempts. Each quiz is interactive, displaying a set of questions with a timer-based mechanism, where users must answer within a given time (e.g., 30 seconds per question). At the end of each quiz, a scoreboard summarizes the user’s performance, offering insights into their progress. Additionally, quiz attempt history is stored using IndexedDB
+

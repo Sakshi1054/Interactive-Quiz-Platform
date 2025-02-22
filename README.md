@@ -15,4 +15,11 @@ An interactive quiz platform where users can attempt quizzes, receive instant fe
 
 ## Clone the project
 ```bash
-git clone https://github.com/YourUsername/YourRepo.git
+git clone https://github.com/Sakshi1054/Interactive-Quiz-Platform.git
+cd Interactive-Quiz-Platform
+
+```bash
+npm install
+
+```bash
+npm run dev
